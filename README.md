@@ -3,13 +3,10 @@ A doodle jump like game, made from scratch using unity3D. Feel free to use it ho
 
 
 ## Screenshots and GIFs:
-coming soon...
-
-## Project logic:
-The use of vertices specified from the cursor's coordinates clicks to dynamically generate and configure a mesh, rigidbody2D, color, and 2D collider.
+![rocket ride image](https://user-images.githubusercontent.com/17766221/44610815-e8d68880-a7f5-11e8-8316-c7c03eab6abc.png)
 
 ## Project Overview
-Requires Unity3D (tested with 2018.x, but should also work with 2017.x & 5.x)
+Requires Unity3D (tested with 2017.x, but should also work with 2018.x & 5.x)
 
 ```
 .
